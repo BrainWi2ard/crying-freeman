@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+scrapy
+fuzzywuzzy
+flask
+transformers
+reportlab
+regex
+ratelimit
+python-docx
