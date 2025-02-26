@@ -1,0 +1,41 @@
+user_input = {
+    "name": "Jane Smith",
+    "address": "456 Elm St, Anycity, USA",
+    "email": "jane.smith@example.com",
+    "id_number": "B987654321",
+    "ssn": "987-65-4321",
+    "property_id": "PROP456",
+    "credit_card": "4321-8765-5678-1234",
+    "cvv": "456",
+    "pan": "FGHIJ9876K",
+    "isin": "US9876543210",
+    "vin": "1HGCM82633A987654",
+    "drivers_id": "D9876543"
+}
+
+urls = {
+    "ssa": "https://www.ssa.gov",
+    "dmv": "https://www.dmv.org",
+    "credit_bureau": "https://www.equifax.com",
+    "public_records": "https://www.publicrecords.net",
+    "third_party": "https://www.lexisnexis.com",
+    "property": "https://www.propertydeeds.com",
+    "oracle": "https://www.oracle.com/database/",
+    "sql_server": "https://www.microsoft.com/en-us/sql-server/",
+    "mysql": "https://www.mysql.com/",
+    "postgresql": "https://www.postgresql.org/",
+    "amazon_aurora": "https://aws.amazon.com/rds/aurora/",
+    "cloud_sql": "https://cloud.google.com/sql",
+    "mongodb": "https://www.mongodb.com/",
+    "cassandra": "http://cassandra.apache.org/",
+    "redis": "https://redis.io/",
+    "dynamodb": "https://aws.amazon.com/dynamodb/",
+    "cosmosdb": "https://azure.microsoft.com/en-us/services/cosmos-db/",
+    "rds": "https://aws.amazon.com/rds/",
+    "cloud_spanner": "https://cloud.google.com/spanner",
+    "azure_sql": "https://azure.microsoft.com/en-us/services/sql-database/",
+    "snowflake": "https://www.snowflake.com/",
+    "neo4j": "https://neo4j.com/",
+    "influxdb": "https://www.influxdata.com/",
+    "elasticsearch": "https://www.elastic.co/"
+}
